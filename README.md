@@ -37,7 +37,7 @@ Liri.js can take in one of the following commands:
 
    * If no song is provided then your program will default to "The Sign" by Ace of Base.
    
-   * You will utilize the [node-spotify-api](https://www.npmjs.com/package/node-spotify-api) package in order to retrieve song information from the Spotify API.
+   * Utilize the [node-spotify-api](https://www.npmjs.com/package/node-spotify-api) package in order to retrieve song information from the Spotify API.
    
 3. `node liri.js movie-this '<movie name here>'`
 
