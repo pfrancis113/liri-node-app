@@ -4,8 +4,8 @@
 
 SIRI is a Speech Interpretation and Recognition Interface... <br>
 LIRI is a _Language_ Interpretation and Recognition Interface...<br>
-LIRI is a command line node app that takes in parameters and gives you back data.<br>
 
+LIRI is a command line node app that takes in parameters and gives you back data.<br>
 Liri.js can take in one of the following commands:
 
     * `my-tweets`
@@ -21,11 +21,11 @@ Liri.js can take in one of the following commands:
 
 1. `node liri.js my-tweets`
 
-   * This will show your last 20 tweets and when they were created at in your terminal/bash window.
+   * Shows your last 20 tweets and when they were created in your terminal/bash window.
 
 2. `node liri.js spotify-this-song '<song name here>'`
 
-   * This will show the following information about the song in your terminal/bash window
+   * Shows the following information about the song in your terminal/bash window
      
      * Artist(s)
      
@@ -37,7 +37,7 @@ Liri.js can take in one of the following commands:
 
    * If no song is provided then your program will default to "The Sign" by Ace of Base.
    
-   * Utilize the [node-spotify-api](https://www.npmjs.com/package/node-spotify-api) package in order to retrieve song information from the Spotify API.
+   * Utilizes the [node-spotify-api](https://www.npmjs.com/package/node-spotify-api) package in order to retrieve song information from the Spotify API.
    
 3. `node liri.js movie-this '<movie name here>'`
 
