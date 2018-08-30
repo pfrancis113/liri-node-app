@@ -70,7 +70,6 @@ Liri.js can take in one of the following commands:
      
      * It's on Netflix!
    
-   * You'll use the request package to retrieve data from the OMDB API. Like all of the in-class activities, the OMDB API requires an API key. You may use `trilogy`.
 
 4. `node liri.js do-what-it-says`
    
